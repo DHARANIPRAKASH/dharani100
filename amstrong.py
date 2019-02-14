@@ -1,4 +1,4 @@
-a=int(input("input:"))
+a=int(input())
 e=0
 b=0
 c=a
