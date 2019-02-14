@@ -1,7 +1,7 @@
 l = int(input("Enter lower range: "))
 u = int(input("Enter upper range: "))
 
-print("Prime numbers between",l,"and",u,"are:")
+
 
 for n in range(l,u + 1):
  
