@@ -1,9 +1,9 @@
-lower = int(input("Enter lower range: "))
-upper = int(input("Enter upper range: "))
+l = int(input("Enter lower range: "))
+u = int(input("Enter upper range: "))
 
-print("Prime numbers between",lower,"and",upper,"are:")
+print("Prime numbers between",l,"and",u,"are:")
 
-for n in range(lower,upper + 1):
+for n in range(l,u + 1):
  
    if n > 1:
        for i in range(2,n):
