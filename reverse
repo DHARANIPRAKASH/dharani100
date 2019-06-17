@@ -1,2 +1,2 @@
 si=input()
-print si[::-1]
+print(si[::-1])
