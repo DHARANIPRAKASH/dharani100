@@ -1,2 +1,2 @@
-x=input("enter number")
-print(len(x))
+m=input()
+print(len(m))
