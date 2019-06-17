@@ -1,5 +1,4 @@
-q=int(input())
-m=int(input())
+q,m=input().split()
 l=[]
 
 for i in range (1,q+1,1):
