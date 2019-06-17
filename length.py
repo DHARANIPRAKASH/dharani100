@@ -1,2 +1,2 @@
-m=input()
-print(len(m))
+not=input()
+print(len(not))
