@@ -1,9 +1,9 @@
-a=int(input("enter the number"))
-if(a>0):
-    if((a%2)==0):
+try:
+    q=int(input())
+    if((q%2)==0):
         print("Even")
     else:
         print("Odd")
-else:
+except:
     print("invalid")
     
