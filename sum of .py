@@ -1,6 +1,6 @@
-a=int(input("enter a number"))
-d=0
-for i in range(a,0,-1):
-    d=d+i
-print(d)
+w=int(input())
+e=0
+for i in range(w,0,-1):
+    e=e+i
+print(e)
 
