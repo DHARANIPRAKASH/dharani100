@@ -1,9 +1,9 @@
-a=input("enter a number:")
-b=input("enter a number:")
-c=input("enter a number:")
-if((a>b)and(a>c)):
-    print(a)
-elif((b>a)and(b>c)):
-    print(b)
+q=int(input())
+r=int(input())
+s=int(input())
+if((q>r)and(q>s)):
+    print(q)
+elif((r>q)and(r>s)):
+    print(r)
 else:
-    print(c)
+    print(s)
