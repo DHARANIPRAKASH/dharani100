@@ -1,14 +1,14 @@
-n=int(input("enter N"))
-k=int(input("enter K"))
+q=int(input())
+m=int(input())
 l=[]
 
-for i in range (1,n+1,1):
-    b=int(input("enter values"))
+for i in range (1,q+1,1):
+    b=int(input())
     l.append(b)
 x=print(l)
-j=0
-for i in range (k):
-    j=j+l[i]
+w=0
+for w in range (m):
+    w=w+l[w]
 print(j)
     
     
