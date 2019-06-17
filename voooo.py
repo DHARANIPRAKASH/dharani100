@@ -1,7 +1,7 @@
-a=(input("enter character:"))
-if((a=='a')or(a=='e')or(a=='i')or(a=='o')or(a=='u')):
+q=(input("enter character:"))
+if((q=='a')or(q=='e')or(q=='i')or(q=='o')or(q=='u')):
        print("Vowels")
-elif((a==('b')or(a=='c')or(a=='d')or(a=='f')or(a=='g')or(a=='h')or(a=='j')or(a=='k')or(a=='l')or(a=='m')or(a=='n')or(a=='p')or(a=='q')or(a=='r')or(a=='s')or(a=='t')or(a=='v')or(a=='w')or(a=='x')or(a=='y')or(a=='z'))):
+elif((q==('b')or(q=='c')or(q=='d')or(q=='f')or(q=='g')or(q=='h')or(q=='j')or(q=='k')or(q=='l')or(q=='m')or(q=='n')or(q=='p')or(q=='q')or(q=='r')or(q=='s')or(q=='t')or(q=='v')or(q=='w')or(q='x')or(q=='y')or(q=='z'))):
         print("Consonant")
 else:
         print("invalid")
